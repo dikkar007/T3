@@ -1,1 +1,4 @@
 
+Based on a discussion earlier this week and the below email on dashboard, I do think we should start with new Jira board and team, instead of adding Prestro Analytics cards on existing board / team. Today, we cannot involve PO in sprint meetings (planning, refinement, retro, demo, daily scrum) as on one team we have MC, L3, LH, infrastructure.. A smaller team focused on their project will make sprint meetings more productive and that will also improve overall team's velocity.
+
+This is aligned with recommended approach from organization and we should start with that. 
