@@ -1,1 +1,88 @@
 
+Node.js operates on a single-thread, using non-blocking I/O calls, allowing it to support tens of thousands of concurrent connections 
+
+
+
+Micro Frontend
+
+Micro Frontends, extending the microservice idea to frontend development.
+
+The current trend is to build a feature-rich and powerful browser application, aka single page app, which sits on top of a micro service architecture. Over time the frontend layer, often developed by a separate team, grows and gets more difficult to maintain. That’s what we call a Frontend Monolith..
+
+
+Microservices - also known as the microservice architecture - is an architectural style that structures an application as a collection of loosely coupled services, which implement business capabilities. The microservice architecture enables the continuous delivery/deployment of large, complex applications. It also enables an organization to evolve its technology stack.
+
+Microservices is a variant of the service-oriented architecture (SOA) architectural style that structures an application as a collection of loosely coupled services. In a microservices architecture, services should be fine-grained and the protocols should be lightweight. The benefit of decomposing an application into different smaller services is that it improves modularity and makes the application easier to understand, develop and test. It also parallelizes development by enabling small autonomous teams to develop, deploy and scale their respective services independently.[1] It also allows the architecture of an individual service to emerge through continuous refactoring.[2] Microservices-based architectures enable continuous delivery and deployment.[3]
+
+Microservice architecture gives developers the freedom to independently develop and deploy services
+
+A microservice can be developed by a fairly small team
+
+Code for different services can be written in different languages (though many practitioners discourage it)
+
+Easy integration and automatic deployment (using open-source continuous integration tools such as Jenkins, Hudson, etc.)
+
+Easy to understand and modify for developers, thus can help a new team member become productive quickly
+
+The developers can make use of the latest technologies
+
+The code is organized around business capabilities
+
+Starts the web container more quickly, so the deployment is also faster
+
+When change is required in a certain part of the application, only the related service can be modified and redeployed—no need to modify and redeploy the entire application
+
+Better fault isolation: if one microservice fails, the other will continue to work (although one problematic area of a monolith application can jeopardize the entire system)
+
+Easy to scale and integrate with third-party services
+
+No long-term commitment to technology stack
+
+
+Communication
+
+JavaScript
+The things that we can do on the web nowadays with JavaScript running on the server, as well as in the browser, were hard to imagine just several years ago.
+JavaScript across the stack which 
+
+React
+
+Simplicity
+ReactJS is just simpler to grasp right away. The component-based approach, well-defined lifecycle, and use of just plain JavaScript make React very simple to learn, build a professional web (and mobile applications), and support it. React uses a special syntax called JSX which allows you to mix HTML with JavaScript. This is not a requirement; Developer can still write in plain JavaScript but JSX is much easier to use.
+
+Easy to learn
+Anyone with a basic previous knowledge in programming can easily understand React while Angular and Ember are referred to as ‘Domain specific Language’, implying that it is difficult to learn them. For react you just need basic knowledge of CSS and HTML.
+
+Native Approach
+React can be used to create mobile applications (React Native). And React is a diehard fan of reusability, meaning extensive code reusability is supported. So at the same time we can make IOS, Android and Web application.
+
+Data Binding
+React uses one-way data binding and an application architecture called Flux controls the flow of data to components through one control point – the dispatcher. It's easier to debug self-contained components of large ReactJS apps.
+
+Performance
+React does not offer any concept of a built-in container for dependency. You can use Browserify, Require JS, EcmaScript 6 modules which we can use via Babel, ReactJS-di to inject dependencies automatically.
+
+Testability
+ReactJS applications are super easy to test. React views can be treated as functions of the state, so we can manipulate with state we pass to the ReactJS view and take a look at the output and triggered actions, events, functions, etc
+
+
+
+
+A quick calculation: assuming that each thread potentially has an accompanying 2 MB of memory with it, running on a system with 8 GB of RAM puts us at a theoretical maximum of 4,000 concurrent connections (calculations taken from Michael Abernethy’s article “Just what is Node.js?”, published on IBM developerWorks in 2011; unfortunately, the article is not available anymore), plus the cost of context-switching between threads. That’s the scenario you typically deal with in traditional web-serving techniques. By avoiding all that, Node.js achieves scalability levels of over 1M concurrent connections, and over 600k concurrent websockets connections.
+
+Amazon, Netflix.
+
+Docker is an open platform tool to make it easier to create, deploy and to execute the applications by using containers. Containers allow us to separate the applications from the infrastructure so we can deploy application/software faster.
+
+Docker is an open-source project based on Linux containers.
+
+You build simple single-process building blocks (nodes) that can be organized with good networking protocols to have them communicate with each other and scale up to build large distributed programs. Scaling a Node application is not an afterthought — it’s built right into the name.
+
+
+Front-end, back-end, and tester have the same language to work with.
+
+I can develop and be productive all across the stack without having to juggle different syntax. It's all JavaScript, and it's fast to prototype.
+
+Docker is a software technology providing containers, which wrap up a piece of software in a complete filesystem that contains everything it needs to run: code, runtime, system tools and system libraries.
+
+Whole application will be never down.
