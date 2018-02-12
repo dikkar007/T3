@@ -2,6 +2,25 @@
 Node.js operates on a single-thread, using non-blocking I/O calls, allowing it to support tens of thousands of concurrent connections 
 
 
+https://blog.risingstack.com/node-js-at-scale-understanding-node-js-event-loop/
+
+
+https://webapplog.com/js-fundamentals/
+
+https://webapplog.com/event-loop/
+
+https://www.toptal.com/back-end/server-side-io-performance-node-php-java-go
+
+https://www.toptal.com/back-end/server-side-io-performance-node-php-java-go
+
+https://belitsoft.com/php-development-services/php7-vs-nodejs
+
+https://www.google.com/amp/s/blog.syncano.io/reactjs-reasons-why-part-1/amp/#ampshare=https://blog.syncano.io/reactjs-reasons-why-part-1/
+
+https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/
+
+https://blog.risingstack.com/node-js-at-scale-understanding-node-js-event-loop/
+
 
 Micro Frontend
 
