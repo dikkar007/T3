@@ -1,0 +1,13 @@
+As an Application Owner
+I want data integrity / validation rules in place for Score class / component. If data is not valid log error message. 
+So that data is validated for Score section. 
+
+Overview
+Data validation for Export Micro-service. Export Micro-service exports data from Call Miner system into Praesto Analytics DB at regular interval, frequency to be determined. 
+
+Acceptance
+Jest Junit for data validation. Istanbul test coverage report.
+
+
+Out of Scope
+Insertion of data in database. 
