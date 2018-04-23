@@ -11,3 +11,67 @@ Jest Junit for data validation. Istanbul test coverage report.
 
 Out of Scope
 Insertion of data in database. 
+
+
+=====
+
+As an Application Owner
+I want expand server validation by environment
+So that 
+
+Overview
+Data validation for Export Micro-service. Export Micro-service exports data from Call Miner system into Praesto Analytics DB at regular interval, frequency to be determined. 
+
+Acceptance
+Jest Junit for data validation. Istanbul test coverage report.
+
+
+Out of Scope
+Insertion of data in database. 
+=====
+
+As an Application Owner
+I want validation framework in place for Export Utility
+So that common function for string, number and data validation.
+
+Overview
+Data validation for Export Micro-service. Export Micro-service exports data from Call Miner system into Praesto Analytics DB at regular interval, frequency to be determined. 
+
+Acceptance
+Jest Junit for data validation. Istanbul test coverage report.
+
+
+Out of Scope
+Insertion of data in database. 
+
+========
+
+As an Application Owner
+I want Powershell script in place for . 
+So that can retrieve server info. 
+
+Overview
+CheckList framework for 
+
+Acceptance
+Script is returning the desired results. 
+
+
+Out of Scope
+Integration with framework. 
+
+========
+
+
+As an Application Owner
+I want data compare results from Powershell script to expected values from Call Miner. 
+So that server validated. 
+
+Overview
+CheckList framework to automate server validation. 
+
+Acceptance
+Jest Junit for data validation. Istanbul test coverage report.
+
+
+Out of Scope
