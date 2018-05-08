@@ -1,9 +1,0 @@
-Yesterday, meeting with Ali was good and results were mixed. 
-
-I have discussed the attached my dev-plan with him, he appreciated and suggested continue the dialog. At the same time he was firm on 804 position at this minute.  His concern was people getting converted from 806 to 804 or from 808 to 801 …. I have told him about my in-depth knowledge on technology, agile, dev-ops, coaching / developing people and truly bring unique experience. I have genuine passion for software delivery. What I’m doing today, it’s continues improvement of what I have done for past several years.  What I’m doing today is not new for me.  In past 6 months, I have delivered not one item and delivered what was needed, demonstrated big breadth. He suggested build the good case / document / plan and will go from there. 
-
-My suggestion at this minute is extend my contract for remaining 12 months. During this time frame, if we find the common ground convert me into FTE position. I’m interested in FTE position.  During this time my job is deliver the working software with highest quality. Coach and develop people for result. Develop my successor. 
-
-Sorry, I’m not moving fast on this. Last several days were very busy with integrating Call Miner API. Internal proxy was blocking the request, finally were able to get around that, this morning. This is kind of discussed, not with this example. In general, we need move fast with Analytic Project and need to make decision here. 
-
-Please let me know, what’s your initial thought / input here. 
