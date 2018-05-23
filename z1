@@ -1,6 +1,1 @@
-My understanding
-Slide #4. : No deep link to Eureka Player instance from Simple Search. As Player (Audio / Transcript sync) will be part of Unified UI.
-
-Slide #5 : No deep link to Coach instance. As Coach functionality will be part of Unified UI. 
-
-Deep links is hybrid approach and doesn’t give consistence experience to our customer.  (We will try to pull complex search & category creation in release 1. We are not working on this. Aletheia scrum team is only working on approved architecture, project plan and sprint plan. Hybrid approach adds other complexity, as there is always a dotted line, not solid line and discovers unknowns late in the project cycle in low level technical design/implementation. I think we should take simple approach all UI is built by us with open solution/ API provided by Call Miner. Our ability to deliver this is based on estimates.  Or Continue with hybrid approach define in the below document and slow get to full Unified UI). 
+This link is giving error message "Access is denied". Neither I can submit the ticket as it’s giving same error message while submitting ticket. It’s giving same error message to other team members as well. Please advise. 
