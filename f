@@ -17,3 +17,21 @@ https://www1.brain.fm/
 https://radiopublic.com/
 https://www.emsisoft.com/en/company/jobs/
 
+
+
+Solution Architect, Agile Management, People Leader 
+17+ years of experience in software development. Started as developer then moved into tech lead, scrum master, solution architect role. 
+Expertise in creating technology roadmap for various organizations.  
+Deep technology knowledge including low level  technical knowledge Node, JavaScript, Java.
+Emerging technology knowledge bigdata, analytics, internet of things and cloud. 
+Enterprise Architecture Framework.
+self-motivated
+Track record of consistent delivery and strong leadership
+Ability to partner within and across the team leaders, executives, operations, finance, marketing and sales team members
+Ability to communicate and lead cross functionally across the organization without a reporting structure
+ Big Data, Internet of Things, analytics
+Understanding of customer needs and knowledge of technology-driven need
+
+
+
+Feedback: Proven Track Record and business knowledge. 
