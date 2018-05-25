@@ -17,6 +17,20 @@ https://www1.brain.fm/
 https://radiopublic.com/
 https://www.emsisoft.com/en/company/jobs/
 
+https://www.experoinc.com/careers
+https://politech.io
+http://www.hays.com/
+https://www.invisionapp.com/company
+https://circleci.com/jobs/
+
+devjobs@highereducation.com 
+Senior Node.js + React Developer
+
+https://floatjobs.workable.com/
+https://www.experoinc.com/careers
+https://www.asksuzy.com/careers/#see-open-positions
+https://www.dealerinspire.com/careers/
+
 
 
 Solution Architect, Agile Management, People Leader 
