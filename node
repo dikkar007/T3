@@ -1,0 +1,61 @@
+An application is made up of lots of smaller, independent loosely coupled services. Each service is capable of running in their own memory space and scaling independently.
+
+Can be developed by a fairly small team.
+No long-term commitment to technology stack.
+Enables an organization to evolve its technology stack.
+Easy to understand and modify. This helps to onboard and make productive new team members quickly.
+Code naturally gets organized around business capabilities.
+Decomposing an application into different, smaller services improves modularity and makes the application developing and testing easier. 
+
+When change is required in a certain part of the application, only the related service can be modified and redeployed—no need to modify and redeploy the entire application.
+Better fault isolation: if one micro-service fails, the other will continue to work (one problematic area of a monolith application will jeopardize the entire system).
+
+Starts more quickly, so the deployment is faster.
+Enables the continuous delivery/automatic deployment of large, complex applications.
+Easy to integrate.
+Easy to scale.
+
+Parallelizes development by enabling small teams to develop, deploy and scale their respective services independently.
+Micro-services must be fine-grained and the protocols should be lightweight.
+Micro-service must be versioned to notify other services regarding updates and api changes.
+
+
+Micro services are isolated, self contained “modules” that together serve a higher logical purpose. They communicate with each other via an agreed upon protocol and each service is responsible for a specific functionality. This allows each single service to remain simple, concise, and testable. A good practice is to keep the services completely immutable and use server versioning to notify the environment (other services) of updates and api changes. This serves for painless backwards compatibility and system stability.
+
+========
+Extends the micro-service to frontend development. The composition of UI components, where each component is responsible for a specific UI functionality and scale independently. 
+
+The current trend is to build a feature-rich and powerful browser application, aka single page app, which sits on top of a micro service architecture. Over time the frontend layer, often developed by a separate team, grows and gets more difficult to maintain. 
+Preferred and proven approach is to split the browser-based code into micro frontends. The web application is broken down into its features. Each feature is developed, tested and deployed independently from other features. (Amazon, Netflix)
+Micro-service is enabling the split of server side monolithic applications into multiple robust micro-services. Micro-frontend is enabling the split of client app into multiple parts that can be independently developed, tested, deployed and scaled.
+Easier testing and reduces the regression testing cost. 
+As individual components (widgets) are developed separately, they can be tested for dependencies and changes separately. This eliminates the need of resource-intensive regression testing after project-completion. This expedites the frontend’s rollout.
+=========
+Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient. Node.js' package ecosystem, NPM, is the largest ecosystem of open source libraries in the world.
+Scaling a Node application is not an afterthought — it’s built right into the name.
+
+The red bars show when the process is waiting for an external resource's response and is blocked, the green bars show when code is running. 
+Node.js operates on a single-thread, using non-blocking I/O calls, allowing it to support tens of thousands of concurrent connections.
+A quick calculation: assuming that each thread potentially has an accompanying 2 MB of memory with it, running on a system with 8 GB of RAM puts us at a theoretical maximum of 4,000 concurrent connections, plus the cost of context-switching between threads. That’s the scenario you typically deal with in traditional web-serving techniques. By avoiding all that, Node.js achieves scalability levels of over 1M concurrent connections, and over 600k concurrent websocket connections.
+==========
+A JavaScript library for building user interfaces.  It’s Declarative, Component-Based and Learn Once, Write Anywhere. 
+Simplicity : The component-based approach, well-defined lifecycle, and use of just plain JavaScript makes React very simple to learn, build a professional web and mobile applications. React uses a special syntax called JSX which allows you to mix HTML with JavaScript. 
+React Server Side Render: React JS supports rendering a component to an HTML string even if there is no browser environment. That allows sending down a page that works even before JS is loaded.
+Native Approach : React can be used to create mobile applications (React Native). React is a diehard fan of reusability, meaning extensive code reusability is supported. So at the same time we can make IOS, Android and Web applications.
+Data Binding : React uses one-way data binding and an application architecture called Flux controls the flow of data to components through one control point – the dispatcher. It's easier to debug self-contained components of large ReactJS apps.
+Size : React is smaller in size compared to other JavaScript library. 
+Performance : React does not offer any concept of a built-in container for dependency. Uses virtual DOM which is a JavaScript object. This improves apps performance, since JavaScript virtual DOM is faster than the regular DOM.
+Testability : ReactJS applications are easy to test. React views can be treated as functions of the state, so we can manipulate with state we pass to the ReactJS view and take a look at the output and triggered actions, events, functions, etc.
+==========
+Back-end, front-end and tester have the same language to work with.
+Develop and productive across the stack without having to juggle different syntax. 
+TypeScript from Microsoft, is strongly typed and strict syntactical. It’s superset of JavaScript, it's strongly typed and strict syntactically, it enhances the code quality and understandability, it provides early error detection and better tooling.
+Visual studio code IDE from Microsoft for everyone. This was hard to imagine just several years ago.
+'T-shaped' developers/testers are the new normal.
+============
+Docker is a platform for developers and dev-ops to develop, deploy, and run applications. It’s an open-source project based on Linux containers. 
+For developers, containers wrap up runtime, configuration and code needed to develop and run software. 
+For dev-ops, packaging an application in a container with its configuration and dependencies guarantees that the application will always work as designed in any environment.
+It’s easier to create, deploy and to execute the applications by using containers. 
+T-Shaped, developer, tester and dev-ops.
+===========
