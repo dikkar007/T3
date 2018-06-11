@@ -1,0 +1,73 @@
+Twin Technologies
+Contract Remote Microservice Security Architect (located in the US)
+Main Street, Portland, OregonContract
+Company Description
+We dream, create, and deliver digital solutions that transform what’s possible for enterprises, government institutions and organizations and partner with our clients through every stage of digital transformation: from strategy, to activation, to delivery to decrease risk and increase speed-to-market.
+
+We are Remotely Awesome! We understand that quality of life directly impacts quality of work, and we know that talent is all over the place. Our team is not limited by geography, and seeks top talent where it exists. Our remote work model encourages independent thinking, requires professional discipline, and contributes to a high quality work/life balance.
+
+What’s does this mean for you? Many of our team members have the flexibility to work from anywhere in the United States, and is provided the tools and infrastructure to successfully collaborate across the globe. We will continue to grow and evolve with the market and provide an environment where creativity, leadership, mentoring, planning, and resources are in place to achieve our shared goals.
+
+Job Description
+The Security Architect will serve as part of a development team supporting both established projects and creating from the ground up. The ideal candidate is an experienced leader and team player with a background in security and a passion for delivering well through DevOps best practices.  They are passionate about technology and committed to lifelong learning, possessing the ability to apply their technical knowledge, skills and experience to solve complex/real-world problems.
+
+Technologies and Disciplines:
+
+We use several different technologies in our development stack across multiple clients and projects. We continuously evaluate new technologies to make sure we are fully aware and always using the right tool for the job. Examples of the technologies we currently use include:
+
+Java, JPA, Dropwizard, JBoss, Javascript
+Docker, Kubernetes, Linkerd, Consul
+SQL Server, Oracle
+Jenkins, Maven, Stash, Git
+AWS EC2, Lambda, S3
+Responsibilities:
+
+Solving complex problems with elegant and maintainable solutions
+Designing, implementing, and evaluating microservice architecture implementations to improve delivery and support new features
+Delivering back-end and tooling solutions using modern Java frameworks
+Developing and bringing security processes in line with current best practices
+Integrating existing legacy Java enterprise system with microservice/mesh architecture based APIs
+Working with the team to continuously improve security across all areas of the software project
+Participating on an agile / scrum software delivery team
+Qualifications
+A strong foundation in computer security and authz & authn best practices
+5-10+ years software engineering experience
+1-2+ years experience integrating with Identity and Access Management frameworks, or security policy and enforcement toolsets.
+Secured APIs and services within SOA or microservice architectures
+Experience with Kubernetes resource APIs and related CLI tools
+Experience with running and defining Docker containers
+Comfortable using and configuring software on Linux based operating systems
+Familiar with service mesh proxies like Istio/Envoy or Linkerd
+Understands best practices for JWT algorithm choice and token claim assertions
+Capable of integrating security related components into CI/CD automation pipelines using tools like Spinnaker or Jenkins
+BS in Computer Science or equivalent experience
+Applicants MUST be US Citizens, due to the nature of the work
+Applicants MUST live in the US, with a remote home office
+This is a contract position to start
+ 
+
+Additional Information
+Twin Technologies offers a competitive and comprehensive employee compensation and benefits package that includes medical, dental and vision insurance, LTD, STD, life insurance, 401k program with company match, and an unlimited PTO plan
+
+Twin Technologies is an Equal Opportunity / Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity and expression, national origin, disability, or protected veteran status.
+
+Videos To Watch
+Laurie Cheverie	
+Posted by
+
+Laurie Cheverie
+SHARE THIS JOB
+OTHER JOBS AT TWIN TECHNOLOGIES
+Contract Remote Full Stack Developer (located in the US)
+Portland, Oregon
+
+Contract Remote AEM/CQ Senior Developer (Anywhere In The US)
+Chicago, IL
+
+Cleared AEM (Adobe Experience Manager) Developer (in the DC area)
+Washington, DC
+
+Show all jobs
+Powered by
+Privacy Policy and Terms of Use
+
