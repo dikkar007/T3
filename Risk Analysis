@@ -1,0 +1,29 @@
+ 
+Architecture Risk Analysis / Attack checklist. 
+All the applications are different, stack 
+System ,OS, Process
+Server Validations 
+Least Privilege
+No backdoor – Admin 
+No password in code 
+Stacktrace 
+Defense level : Auth, Auth, Input, Encrypt, Loggi
+Open Source code
+Reverse Engineer
+Obfuscation 
+Anti-debug
+No email during registration 
+Two phase authentication 
+Authz / Authn 
+Software Security is hard
+Train everyone
+Upgrade software 
+
+Threats,  Data. Trust
+Put in place control 
+Identify secure link
+NFR
+Don’t trust…Firewall, client
+Compartmentalize / Micro-services 
+Keep it simple 
+Crypto  
