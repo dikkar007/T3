@@ -1,0 +1,9 @@
+AWS
+Virtual Private Cloud (VPC): Instance, services, Gateway, VPC Endpoints. 
+Elastic Cloud Compute (EC2): On demand, Reserved: Standard/ Scheduled lower 
+Load balancer: protocol, port configuration 
+Auto Scaling: Elasticity, New Instance
+Monitoring: CloudTrail, CloudWatch. Dashboard
+Route 53, DNS
+DynamoDB, NOSQL database
+Storage : Amazon S3, Amazon Glacier, EBS 
