@@ -1,0 +1,34 @@
+TDD
+•	Easier Maintenance 
+•	Refactor with confidence 
+o	Make code readable 
+o	Best practices 
+o	Reusable blocks 
+•	Clean Code 
+•	Callback 
+•	Low level design 
+
+Steps
+1.	Write a failing test
+2.	Make it pass
+3.	Refactor 
+
+1.	Red
+2.	Green
+3.	Refactor
+
+Server
+•	More logic
+•	Easier Maintenance
+•	Routing, Database instruction, knowing what to test   
+
+Client
+•	User interaction 
+•	Framework Magic
+•	Appearance 
+
+Angular
+•	Two way binding 
+•	Manipulates DOM
+•	Build in dependency injection 
+•	Integrated Mocks
