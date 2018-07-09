@@ -3,3 +3,7 @@ Callbacks are functions that are executed asynchronously, or at a later time.
 Events are a common pattern in programming, known more widely as the 'observer pattern' or 'pub/sub' (publish/subscribe). Whereas callbacks are a one-to-one relationship between the thing waiting for the callback and the thing calling the callback, events are the same exact pattern except with a many-to-many API.
 
 A callback function in its simplest terms, is a function that is passed to another function, as a parameter. The callback function then gets executed inside the function where it is passed and the final result is returned to the caller.
+
+Node.js is single threaded but it supports concurrency using events and callbacks.
+
+Node internally uses multiple POSIX threads for various I/O operations such as File, DNS, Network calls etc.
