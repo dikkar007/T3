@@ -1,9 +1,2 @@
-Analytics UI Hierarchy need based on Meta Data
-1) Need logged user role. Input SID, return role.
-2) Direct report list. Input SID, return direct report list. This service exists  today- Team management service.
-3) Service to send hierarchy information (or, segment, site and team name) to Call Miner – Eureka. 
-4) Search filter criteria 
-	a.UI pull hierarchy information from webstats and compare with call results.
-	b.Or user search and then we enable filter criteria related to hierarchy based on result
-	c.Or UI maintain hierarchy based on exported data  
-All the above need of 4 services goes away, if we go with decision that webstats share flat file of hierarchy information every 24 hours and Analytics team take care providing hierarchy information to Eureka and UI needs.
+Analytics UI will call Team management service per user login. TeamManagementService we discussed on this Tuesday, 08/21. 
+Analytics UI need one more service (Hierarchy Service), that can be call every 24 hours to retrieve org, segment, site and team info. Same service can be used by Nuanace per call or every 24 hours.
