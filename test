@@ -1,2 +1,5 @@
-Analytics UI will call Team management service per user login. TeamManagementService we discussed on this Tuesday, 08/21. 
-Analytics UI need one more service (Hierarchy Service), that can be call every 24 hours to retrieve org, segment, site and team info. Same service can be used by Nuanace per call or every 24 hours.
+This data will come from meta data based discussion with ISF/Analytics. Design and implementation approach is not yet finalized. In-progress.  
+
+Currently we are using evaluation version of Casandra.  Let us know, if there are better options before we finalize on this. 
+
+Thanks & Looking forward to partnership  
