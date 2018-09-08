@@ -1,5 +1,10 @@
-This data will come from meta data based discussion with ISF/Analytics. Design and implementation approach is not yet finalized. In-progress.  
+Search : Search screen allows user to search for interaction. Search can be performed with text search. Search results can be filtered by date range, by hierarchy, by meta data, by category or score.
 
-Currently we are using evaluation version of Casandra.  Let us know, if there are better options before we finalize on this. 
+Category Trend : Category trend screen allows user to see category trend for specific category. Category trend can be filtered by hierarchy, by meta data. 
 
-Thanks & Looking forward to partnership  
+Result Queue : Result queue screen allows user to create queues. User can listen to a call for manual quality check. 
+
+App Status : Displays health check information.
+
+Administration : 
+ 
