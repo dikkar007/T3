@@ -1,3 +1,6 @@
-	Kristina Geisler
-KGeisler@esurance.com
-Phone: 813-386-6263
+Please see the documentation here on why we need Cassandra and this is aligned to Photon. 
+I have sent coarse grain document to you and your team about 1 & ½ month back. On 08/12. 
+I also had 1 hr meeting with Saurabh and Kapil from your team and Eureka data team on 08/30 to discuss coarse grain document. Finally, very recently, this week additional information requested on this document. I’m providing the answer as quickly as I can from data modeling point of view. Today, almost everyday I’m working with Saurabh (via phone & skype chat) to provide what information he needs. He indicated this is first project with Cassandra.  This week, I have helped him to get Cassandra Client install, so he can get deeper involved. 
+Above document, send on 08/12. Now, evolved from Coase Grain to Fine Grain.  There is progress here. Here is confluence link for that. 
+Just FYI: This morning 8am meeting also discussed on data modeling. Cassandra recommends using query or access pattern approach for data modeling.  Instead of data modeling in traditional table-driven. I do think today our approach is table-driven and this may slow down logical data modeling work and may not be solid input for physical data model for Cassandra. This mention here as this might take everyone’s more time. 
+Please let me know, if I’m missing anything here or you need any additional information from me.
